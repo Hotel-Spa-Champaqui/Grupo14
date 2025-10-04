@@ -1,5 +1,6 @@
 
-*{/* Estilos globales para todos los elementos */
+*{
+    /* Estilos globales para todos los elementos */
     margin: 0; /*Establece el margen y el relleno (padding) a 0, eliminando los espacios predeterminados.*/
     padding: 0;
     font-family: sans-serif; /*Define la fuente como sans-serif.*/
